@@ -1,1 +1,7 @@
 .DS_Store
+
+broker-service/brokerApp
+listener-service/listenerApp
+authentication-service/authApp
+logger-service/loggerServiceApp
+mail-service/mailerApp
